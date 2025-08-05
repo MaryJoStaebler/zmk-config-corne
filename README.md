@@ -25,5 +25,3 @@ Highly influenced by the [Miryoku](https://github.com/manna-harbour/miryoku/tree
 ## Function
 
 ![Function Layer](./images/Func.svg)
-
-If you're interested in a bit of history about my split keyboard journey check out my blog post on it [here](https://phrak.dev/blog/corne).
