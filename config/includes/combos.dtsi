@@ -24,28 +24,28 @@
     combo_cut {
       timeout-ms = <50>;
       key-positions = <21 22>; // tap X and C to cut text
-      bindings = <&kp LCTRL(X)>;
+      bindings = <&kp LC(X)>;
       layers = <0>;
     };
 
     combo_copy {
       timeout-ms = <50>;
       key-positions = <22 23>; // tap C and V to copy text
-      bindings = <&kp LCTRL(C)>;
+      bindings = <&kp LC(C)>;
       layers = <0>;
     };
 
     combo_paste {
       timeout-ms = <50>;
       key-positions = <23 24>; // tap V and B to paste text
-      bindings = <&kp LCTRL(V)>;
+      bindings = <&kp LC(V)>;
       layers = <0>;
     };
 
     combo_save {
       timeout-ms = <50>;
       key-positions = <11 12>; // tap S and D to save file
-      bindings = <&kp LCTRL(S)>;
+      bindings = <&kp LC(S)>;
       layers = <0>;
     };
 

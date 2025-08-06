@@ -73,10 +73,10 @@
       //         |   |   |   |     |   |   |   |
       //         +---+---+---+     +---+---+---+
       bindings = <
-        &none     &none    &kp LCTRL(LG(LEFT)) &kp LCTRL(LG(LEFT)) &none       &kp LCTRL(Z) &kp LCTRL(V) &kp LCTRL(C) &kp LCTRL(X) &kp LCTRL(LS(Z))
-        &kp LGUI  &kp LALT &kp LCTRL           &kp LSHFT           &none       &kp LEFT     &kp DOWN     &kp UP       &kp RIGHT    &none
-        &none     &none    &none               &none               &none       &kp HOME     &kp PG_DN    &kp PG_UP    &kp END      &none
-                           &trans              &trans              &trans      &trans       &trans       &trans
+        &none     &none    &kp LC(LG(LEFT)) &kp LC(LG(RIGHT)) &none       &kp LC(Z) &kp LC(V) &kp LC(C) &kp LC(X) &kp LC(LS(Z))
+        &kp LGUI  &kp LALT &kp LCTRL           &kp LSHFT      &none       &kp LEFT  &kp DOWN  &kp UP    &kp RIGHT &none
+        &none     &none    &none               &none          &none       &kp HOME  &kp PG_DN &kp PG_UP &kp END   &none
+                           &trans              &trans         &trans      &trans    &trans    &trans
       >;
     };
 
